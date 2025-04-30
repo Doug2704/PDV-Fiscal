@@ -1,0 +1,4 @@
+com\pdvfiscal\fiscal\FiscalConfig.class
+com\pdvfiscal\PdvWebApplication.class
+com\pdvfiscal\fiscal\FiscalService.class
+com\pdvfiscal\fiscal\FiscalController.class
