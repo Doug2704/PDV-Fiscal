@@ -1,0 +1,14 @@
+# Ignora arquivos de build do Maven
+/target/
+
+# Ignora arquivos de configuração do IDE
+/.idea/
+*.iml
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Outros exemplos comuns
+*.log
+*.class
